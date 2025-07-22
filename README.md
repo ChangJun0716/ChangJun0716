@@ -1,4 +1,6 @@
-## Hi there 👋
+# 벌꿀오소리 처럼 해야할 일을 해내는 이창준 입니다!    
+### 데이터 속 숨은 세상을 분석하는 분석가가 되고 싶습니다!
+
 
 <!--
 **ChangJun0716/ChangJun0716** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
