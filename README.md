@@ -21,8 +21,7 @@
 
 ### 2. PickCaffeine : 소규모 개인 카페 주문 앱
 ####  - Tech Stack : MySQL, GetX, Python, FastAPI, Flutter, Dart, VS Code, GitHub, Folk    
-####  - Part : 팀 총괄, Github 관리, 고객 회원가입, 로그인, 고객 홈 & 검색 화면, 매장 매출 & 판매량 차트 화면, 
-####           관리자 매출 & 차트 화면 제작
+####  - Part : 팀 총괄, Github 관리, 고객 회원가입, 로그인, 고객 홈 & 검색 화면, 매장 매출 & 판매량 차트 화면, 관리자 매출 & 차트 화면 제작
 ####  - URL : https://github.com/Team2-Organization-K-Digital/PickCaffeine
 ####  - PDF : https://github.com/ChangJun0716/ChangJun0716/blob/main/PDF/Pick_Caffeine.pdf
 
