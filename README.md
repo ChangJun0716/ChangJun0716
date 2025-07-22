@@ -1,6 +1,14 @@
 ### 안녕하세요. 이창준 입니다!    
 #### 데이터 속 숨은 세상을 분석하는 분석가가 되고 싶습니다!
 
+| Area       | Tech Stack               |
+|------------|--------------------------|
+| Framework  | Flutter, Dart            |
+| State Management| GetX, Provider      |
+| Backend    | Python, FastAPI          |
+| Database   | MySQL, SQLite            |
+| Tools      | GitHub, Folk, VS Code    | 
+
 
 <!--
 **ChangJun0716/ChangJun0716** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
