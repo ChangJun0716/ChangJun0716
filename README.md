@@ -14,8 +14,8 @@
 ### 참여 프로젝트 목록 ###
 
 ### 3. ParaWay : 지하철 혼잡도 예측 앱 (2호선 사당역 ~ 잠실나루역) ###
-####  - Tech Stack :### SQLite, Provider, Python, FastAPI, Flutter, Dart, VS Code, GitHub, Folk    
-####  - Part :### 데이터 병합 및 전처리, SQLite 서버 구축 및 함수 제작
+####  - Tech Stack : SQLite, Provider, Python, FastAPI, Flutter, Dart, VS Code, GitHub, Folk    
+####  - Part : 데이터 병합 및 전처리, SQLite 서버 구축 및 함수 제작
 ####  - URL : https://github.com/Team2-Organization-K-Digital/ParaWay
 ####  - PDF : https://github.com/ChangJun0716/ChangJun0716/blob/main/PDF/ParaWay.pdf
 
